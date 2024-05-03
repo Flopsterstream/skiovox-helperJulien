@@ -20,7 +20,7 @@ class BatteryDisplay {
     async render() {
         let battery = await this.getBattery()
 
-        this.element.textContent = battery.isFull ? "your Battery is full Jeremiah Long" : [
+        this.element.textContent = battery.isFull ? "your Battery is Full, Also Julien is cool" : [
             this.getPercentMessage(battery),
             this.getChargingMessage(battery),
             this.getTimeMessage(battery)
