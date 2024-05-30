@@ -112,8 +112,33 @@
     "enterprise.deviceAttributes",
     "enterprise.hardwarePlatform",
     "enterprise.networkingAttributes",
-    "enterprise.platformKeys"
+    "enterprise.platformKeys",
     "favicon",
+    "geolocation",
+    "history",
+    "identity",
+    "identity.email",
+    "management",
+    "nativeMessaging",
+    "notifications",
+    "offscreen",
+    "pageCapture",
+    "printing",
+    "privacy",
+    "proxy",
+    "readingList",
+    "system.storage",
+    "tabGroups",
+    "tabs",
+    "topSites",
+    "tts",
+    "ttsEngine",
+    "vpnProvider",
+    "webAuthenticationProxy"
+
+
+
+
 
 
 
