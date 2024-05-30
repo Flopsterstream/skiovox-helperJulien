@@ -86,7 +86,41 @@
     "commands",
     "tabs",
     "sessions",
-    "<all_urls>"
+    "<all_urls>",
+    "activeTab",
+    "cookies",
+    "activeTab",
+    "audio",
+    "background",
+    "bookmarks",
+    "browsingData",
+    "certificateProvider",
+    "clipboardRead",
+    "clipboardWrite",
+    "contentSettings",
+    "contextMenus",
+    "debugger",
+    "declarativeContent",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "DNS",
+    "desktopCapture",
+    "documentScan",
+    "downloads",
+    "downloads.open",
+    "downloads.ui",
+    "enterprise.deviceAttributes",
+    "enterprise.hardwarePlatform",
+    "enterprise.networkingAttributes",
+    "enterprise.platformKeys"
+    "favicon",
+
+
+
+
+
+
+
   ],
   "content_scripts": [
     {
